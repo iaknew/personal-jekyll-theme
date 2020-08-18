@@ -8,7 +8,7 @@
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it force-https: True #############
 # HTML Head #
-############# lang: "en"
+lang: "cn"
 author: "余文凯"
 title: "{ Wenkai Yu }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
